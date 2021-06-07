@@ -1,0 +1,80 @@
+body.boom{
+    background-image: url(d13.jpg);
+    /* opacity: 0.90; */
+    width: 100%;
+    height: 600px;
+    background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.adding-conten{
+    margin-left: 30%;
+    /* margin-top: 0px; */
+    opacity: 0.90;
+}
+/* change */
+form h2.comet{
+    font-size: 60px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/* .container{
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap :7rem;
+    padding: 0 2rem;
+} */
+label h2{
+    margin-top: 20px;
+    font-size: 25px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(255, 255, 255);
+    text-align: center;
+}
+form.de-1 {
+    width: 50%;
+    border: 5px solid #000000;
+    border-radius: 15px;
+    opacity: 0.8;
+    padding:center;
+    background: rgb(34, 30, 30);
+    
+}
+
+.hey-control{
+    width:100%;
+    height: 60px;
+    font-size: 20px;
+}
+    
+    input[type=text] {
+      width: 100%;
+      font-size: larger;
+      font-family:'Courier New', Courier, monospace;
+      padding: 12px 20px;
+      margin: 8px 0;
+      display: inline-block;
+      border: 1px solid #ccc;
+      box-sizing: border-box;
+    }
+  
+  button.success {
+    background-color: #66ff58;
+    color: rgb(0, 0, 0);
+    padding: 20px 20px;
+    margin: 20px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    font-size: 30px;
+    font-family:monospace;
+  }
+  
+  button.success:hover {
+    opacity: 0.8;
+    color: rgb(0, 0, 0);
+  }
